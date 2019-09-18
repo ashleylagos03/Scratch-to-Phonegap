@@ -7,14 +7,14 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>[Title of your app]</name>
+    <name>[ABBY]</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
-    </description>
+    </Weightloss>
 
-    <author href="http://scratch.mit.edu/users/[Your Username]" email="[Your Email]">
-        [Your Username]
+    <author href="http://scratch.mit.edu/users/[ashleylagos03]" email="[alagoscantarero@erawarrior.org]">
+        [ashleylagos03]
     </author>
 
 </widget>
